@@ -1,9 +1,8 @@
 # Ping-Pong
 
- - [LaunchFree.net](https://launchfree.net/sites/games/games.html) - Game only in HTML, CSS, JS
-
  Save the files in a folder and open the file "index.html" in your browser.
 
+ Try out the game here [LaunchFree.netlify.app](https://launchfree.netlify.app/sites/games/games.html)
 
 Preview 
 
